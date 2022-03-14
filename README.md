@@ -24,6 +24,7 @@
 -   >              _Finished design can be provided in KiCad, Altium or Gerber formats to client specifications_
 -   >
 -   >> **_Competitive_** _System design, layout and small-scale manufacture
+-
 - IOT hardware, Memory & Display interfacing
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
