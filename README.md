@@ -7,7 +7,7 @@
    Foxtronics designs and manufactures tailored systems with extreme attention to detail, ensuring that hardware we design and build meets the meticulous standard     that we strive be known for.
 
   _PROUDLY AUSTRALIAN MADE:
-   _**_ALL_** Manufacturing(*), assembly and QA / Testing of Foxtronics designs are performed in Australia, by skilled and qualified Australians.
+   *_ALL_* Manufacturing(*), assembly and QA / Testing of Foxtronics designs are performed in Australia, by skilled and qualified Australians.
 -
 -    * (*) Disclaimer: PCB fabrication excluded >
 -    *    It is not currently financially viable to manufacture PCBs domestically, when it is we will switch to
