@@ -1,12 +1,12 @@
     Welcome to the FOXTRONICS git-repository (@foxtronics)
    _Foxtronics is a registered Australian business specialising in turnkey electronic design and system integration.
  
-  >_We are commited to serving the open source community.
+   _We are commited to serving the open source community.
     Growing from open source, self taught roots we are deeply committed to sharing, contributing back to the pool of knowledge we drew upon. 
 
-   _Foxtronics designs and manufactures tailored systems with extreme attention to detail, ensuring that hardware we design and built meets the meticulous standard     that we strive be known for.
+   Foxtronics designs and manufactures tailored systems with extreme attention to detail, ensuring that hardware we design and build meets the meticulous standard     that we strive be known for.
 
-  >_PROUDLY AUSTRALIAN MADE:
+  _PROUDLY AUSTRALIAN MADE:
    _**_ALL_** Manufacturing(*), assembly and QA / Testing of Foxtronics designs are performed in Australia, by skilled and qualified Australians.
 -
 -    * (*) Disclaimer: PCB fabrication excluded >
